@@ -21,13 +21,15 @@ Here are some ideas to get you started:
       <b> 点我查看更多内容~ | Click me to check more Details~ </b> 
     </em>
   </summary>
-<br> 
+<p> 
 
-> 先留个空
+> 你好啊，我是吉平，目前是一名（处在试用期的）嵌入式方向的软件工程师。个人对单片机开发比较感兴趣，但对于未来想钻研什么方向还比较迷茫。平时做的一些小项目会放在仓库里，随缘更新~对计算机感兴趣的小伙伴一起加油！
 
-- 🙈暂时还没有写什么内容
+> Hello! My name is JiPing, I am an embedded software programmer now. I have great interest in MCU program development, but still want to be an expert in other fields. Projects that I push forward in my free time will upload to repository of github synchronously. Let's work hard on CS! If you love it, the same as me.
 
-</br>
+- 🙈暂时还没想到写什么
+
+</p>
 </details>
 
 ![IMG_20220502_104924](https://user-images.githubusercontent.com/67667785/194764854-efd41391-df8c-4ab5-ad00-5be646a4911b.jpg)
