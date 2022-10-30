@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <details>
   <summary>
     <em>
-      <b> 点我查看更多内容~ | Click me to check more Details~ </b> 
+      <b> 点我查看更多内容~ | Click to check for more Details~ </b> 
     </em>
   </summary>
 <p> 
