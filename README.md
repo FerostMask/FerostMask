@@ -23,10 +23,6 @@ Here are some ideas to get you started:
   </summary>
 <p> 
 
-> 你好啊，我是吉平，目前是一名（处在试用期的）嵌入式方向的软件工程师。个人对单片机开发比较感兴趣，但对于未来想钻研什么方向还比较迷茫。平时做的一些小项目会放在仓库里，随缘更新~对计算机感兴趣的小伙伴一起加油！
-
-> Hello! My name is JiPing, I am an embedded software programmer now. I have great interest in MCU program development, but still want to be an expert in other fields. Projects that I push forward in my free time will upload to repository of github synchronously. Let's work hard on CS! If you love it, the same as me.
-
 - 🙈暂时还没想到写什么
 
 </p>
